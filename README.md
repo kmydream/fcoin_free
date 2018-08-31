@@ -1,12 +1,6 @@
 # Fcoin对刷机器人
 
-###新增coinpark(cp)和coinex(cet)收费版，后续会考虑开源，需要请进群私聊
 
-## 讨论群
-
-提供免费版和付费版，交流群
-
-<img src="./barcode.png" align=center />
 
 ## 策略以及风险
 1. 先买后卖
@@ -73,8 +67,3 @@ windows搜索cmd，mac搜索terminal
 3. mac `python3 fees.py` windows: `python fees.py`
 
 
-## 打赏
-如果你觉得使用不错
-
-* BTC: 3AdbaFQpUWcuQHzQmboC9MzGdL3MesP5GS
-* ETH: 0xe17679962f4dc3e4f7f71075f421a0e6897a4b78
