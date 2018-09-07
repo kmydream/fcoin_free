@@ -1,5 +1,14 @@
 # Fcoin对刷机器人
 
+## 智能兔推广
+
+### 微信群
+<img src="./wechat.JPG" width="300" hegiht="300" align=center />
+
+
+### app下载
+<img src="./moretoken.PNG" width="300" hegiht="300" align=center />
+
 
 
 ## 策略以及风险
